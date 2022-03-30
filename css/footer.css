@@ -1,0 +1,54 @@
+.footer {
+    padding: 20px 0;
+    width: 100%;
+    height: 120px;
+    background-color: rgb(36, 36, 36);
+}
+
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.footer__info, .work__info {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 150%;
+}
+
+.footer__info span {
+    font-weight: 600;
+}
+
+.footer__work a {
+    color: rgb(236, 236, 236);
+    font-weight: 500;
+}
+
+.footer__link {
+    text-align: center;
+}
+
+.footer__link h4{
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.footer__link  .telegram svg {
+    color: rgb(216, 216, 216); 
+}
+
+.footer__link  .telegram, .instagram{
+    margin-right: 5px;
+}
+
+.footer__link  .instagram svg {
+    color: rgb(216, 216, 216); 
+}
+
+.footer__link  .vk svg {
+    color: rgb(216, 216, 216); 
+}
